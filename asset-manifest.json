@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-learn-formik-yup/static/css/main.7acaea2f.css",
+    "main.js": "/goit-learn-formik-yup/static/js/main.07d3183d.js",
+    "index.html": "/goit-learn-formik-yup/index.html",
+    "main.7acaea2f.css.map": "/goit-learn-formik-yup/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/goit-learn-formik-yup/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
