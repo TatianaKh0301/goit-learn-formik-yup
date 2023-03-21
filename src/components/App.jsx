@@ -1,6 +1,6 @@
 import { Component } from "react";
-// import { LoginForm } from "./LoginForm/LoginForm";
-import {ProductReviewForm} from "./ProductReviewForm/ProductReviewForm";
+import { LoginForm } from "./LoginForm/LoginForm";
+// import {ProductReviewForm} from "./ProductReviewForm/ProductReviewForm";
 
 export class App extends Component {
   render() {
@@ -15,8 +15,8 @@ export class App extends Component {
           color: '#010101'
         }}
       >
-        {/* <LoginForm /> */}
-        <ProductReviewForm />
+        <LoginForm />
+        {/* <ProductReviewForm /> */}
       </div>
     );
   }
