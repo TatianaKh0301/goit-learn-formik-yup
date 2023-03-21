@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goit-learn-formik-yup/static/css/main.7acaea2f.css",
-    "main.js": "/goit-learn-formik-yup/static/js/main.7de3e84e.js",
+    "main.js": "/goit-learn-formik-yup/static/js/main.e6211954.js",
     "index.html": "/goit-learn-formik-yup/index.html",
     "main.7acaea2f.css.map": "/goit-learn-formik-yup/static/css/main.7acaea2f.css.map",
-    "main.7de3e84e.js.map": "/goit-learn-formik-yup/static/js/main.7de3e84e.js.map"
+    "main.e6211954.js.map": "/goit-learn-formik-yup/static/js/main.e6211954.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.7de3e84e.js"
+    "static/js/main.e6211954.js"
   ]
 }
